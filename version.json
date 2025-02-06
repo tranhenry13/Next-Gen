@@ -1,0 +1,10 @@
+{
+    "version": "1.0.1",
+    "required": true,
+    "downloadUrl": "https://github.com/tranhenry13/Next-Gen/releases",
+    "changelog": [
+        "Added new features",
+        "Fixed bugs",
+        "Improved performance"
+    ]
+}
