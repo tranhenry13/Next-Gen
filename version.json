@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
-    "status": "Working",
+    "version": "1.0.2",
+    "status": "patched",
     "required": true,
     "downloadUrl": "https://github.com/yourusername/NextGen/releases/latest",
     "changelog": [
@@ -8,5 +8,5 @@
         "Fixed bugs",
         "Improved performance"
     ],
-    "notice": "Update available! Click here to download the latest version."
+    "notice": "Update available! Close this window to download the latest version."
 }
