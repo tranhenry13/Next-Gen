@@ -1,10 +1,12 @@
 {
     "version": "1.0.1",
+    "status": "Working",
     "required": true,
-    "downloadUrl": "https://github.com/tranhenry13/Next-Gen/releases",
+    "downloadUrl": "https://github.com/yourusername/NextGen/releases/latest",
     "changelog": [
         "Added new features",
         "Fixed bugs",
         "Improved performance"
-    ]
+    ],
+    "notice": "Update available! Click here to download the latest version."
 }
